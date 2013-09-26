@@ -8,7 +8,10 @@ by Dark Savant and Korn101
 
 Background:
 
-	Genetic Algorithms (or evolutionary algorithms) are a way of finding solutions to problems that cannot neccessarily be   	solved by regular mathematical modelling techniques. These types of algorithms get their name because of how they        	attempt to 'model' the environment or nature and use a simulated version of Darwinian evolution to evolve the best 				possible solution to a problem.
+	Genetic Algorithms (or evolutionary algorithms) are a way of finding solutions to problems that cannot neccessarily be solved by regular mathematical modelling techniques. 
+	These types of algorithms get their name because of how they attempt to 'model' the environment 
+	or nature. 
+	They use a simulated version of Darwinian evolution to evolve the best possible solution to a problem.
 	
 Information:
 
