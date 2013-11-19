@@ -1,9 +1,10 @@
 GeneticAlgorithm1
 =================
 
-(Very) Basic genetic algorithm
-by Dark Savant and Korn101
+(Very) Basic genetic algorithm framework.
+by korn101
 
+STILL IN DEV
 *apologies in advance for spelling errors*
 
 Background:
@@ -30,6 +31,7 @@ Notes:
 Program Structure:
 
 -> binaryNumber class:
+-> (BASE CLASS FOR FUTURE GENE CLASS, which will inherit from binaryNumber)
 			
 			-The binaryNumber object is an object which represents a binary number of variable number of bits. 
 			-It is an effective way of representing genes.
