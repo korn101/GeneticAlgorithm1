@@ -31,13 +31,12 @@ Notes:
 Program Structure:
 
 -> binaryNumber class:
--> (BASE CLASS FOR FUTURE GENE CLASS, which will inherit from binaryNumber)
 			
 			-The binaryNumber object is an object which represents a binary number of variable number of bits. 
 			-It is an effective way of representing genes.
 			-It is easy to work with in terms of genetic operators like gene 'crossover'
 			-Has overloaded operators such as = to perform deep copy, and [] (subscript) to directly alter individual bits.
-	
+			-Will later be replaced by "Gene.cpp" class.
 -> Organism class:
 
 			-This class represents an Organism, an organism has traits which are represented by Genes (binaryNumber's)
